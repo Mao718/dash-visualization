@@ -1,6 +1,6 @@
 # Inpainting Interface
-![interface show](inpainting_interface.git)  
-This interface using [runwayml/stable-diffusion-inpainting](https://huggingface.co/runwayml/stable-diffusion-inpainting) pretrained weights. The user can upload their image to the server, choose the region to be inpainted and give you back the predict image.
+![interface show](inpainting_interface.gif)  
+This interface uses [runwayml/stable-diffusion-inpainting](https://huggingface.co/runwayml/stable-diffusion-inpainting) pretrained weights. The user can upload their image to the server, choose the region to be inpainted, and receive the predicted image in return.
 
 Set it up uncomment one of these two to choose you want to host it locally or host it as a server 
 ```
